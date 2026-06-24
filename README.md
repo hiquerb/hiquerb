@@ -1,17 +1,17 @@
 # Henrique Ramos Barbosa
 ### Gestor de TI · Infraestrutura, Cloud & Segurança | FinOps · IA Aplicada & Automação
 
-Profissional de TI com quase 20 anos de carreira, atuando na gestão de infraestrutura, cloud (AWS/Azure), segurança da informação (ISO 27001) e governança de custos (FinOps). Meu diferencial: **não apenas opero TI — construo automação com IA** para escalar segurança, FinOps e confiabilidade sem aumentar a equipe.
+Profissional de TI com quase 20 anos de carreira, atuando na gestão de infraestrutura, cloud (AWS/Azure), segurança da informação (ISO 27001) e governança de custos (FinOps). Meu diferencial: **não apenas opero TI: construo automação com IA** para escalar segurança, FinOps e confiabilidade sem aumentar a equipe.
 
 > **Nota:** os projetos abaixo são **estudos de caso anonimizados** da minha atuação profissional. Por confidencialidade, dados, nomes de empresa/clientes, credenciais e identificadores internos foram removidos. O foco é a **arquitetura, as decisões e os resultados**.
 
 ---
 
 ## 🎯 Em números (atuação real, anonimizada)
-- **~R$ 1 milhão/ano** em custos de TI sob modelo de rateio FinOps (49 centros de custo, 42 projetos) — base sobre a qual entreguei **19% de redução** recorrente.
-- **ISO/IEC 27001:2022** — minha área foi o escopo certificado (1ª certificação + auditorias de manutenção).
+- **cerca de R$ 1 milhão/ano** em custos de TI sob modelo de rateio FinOps (49 centros de custo, 42 projetos): base sobre a qual entreguei **19% de redução** recorrente.
+- **ISO/IEC 27001:2022**: minha área foi o escopo certificado (1ª certificação + auditorias de manutenção).
 - **517 entregas** rastreadas em 5 anos liderando equipe de infraestrutura em 8 domínios de governança.
-- Ambiente: **~490 usuários**, multi-cloud AWS + Azure, identidade Entra ID.
+- Ambiente: **cerca de 490 usuários**, multi-cloud AWS + Azure, identidade Entra ID.
 
 ---
 
@@ -38,4 +38,4 @@ Profissional de TI com quase 20 anos de carreira, atuando na gestão de infraest
 
 ---
 
-📍 São Paulo–SP (híbrido/presencial) · 💼 [LinkedIn](https://www.linkedin.com/in/henrique-ramos-barbosa)
+📍 São Paulo–SP (híbrido/presencial) · 💼 LinkedIn: _adicionar URL do perfil_
