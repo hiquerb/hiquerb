@@ -38,4 +38,4 @@ Profissional de TI com quase 20 anos de carreira, atuando na gestão de infraest
 
 ---
 
-📍 São Paulo–SP (híbrido/presencial) · 💼 LinkedIn: _adicionar URL do perfil_
+📍 São Paulo–SP (híbrido/presencial) · 💼 [LinkedIn](https://www.linkedin.com/in/henrique-ramos-barbosa/)
